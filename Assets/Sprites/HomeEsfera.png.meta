@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 76bb68f7f6f7baf45825a96ce7cb9f4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7230779052535920532
+    second: HomeEsfera_0
+  - first:
+      213: 5409388811022271534
+    second: HomeEsfera_1
+  - first:
+      213: -3609851470596795360
+    second: HomeEsfera_2
+  - first:
+      213: -2220942486584693980
+    second: HomeEsfera_3
+  - first:
+      213: -7393507639618493965
+    second: HomeEsfera_4
+  - first:
+      213: 4461884719430893159
+    second: HomeEsfera_5
+  - first:
+      213: 312837401936221236
+    second: HomeEsfera_6
+  - first:
+      213: 3486589883869221868
+    second: HomeEsfera_7
+  - first:
+      213: 8145512658718977515
+    second: HomeEsfera_8
+  - first:
+      213: 7501498315414055014
+    second: HomeEsfera_9
+  - first:
+      213: -2754555543504351852
+    second: HomeEsfera_10
+  - first:
+      213: -6432936603379230600
+    second: HomeEsfera_11
+  - first:
+      213: 1035999151360980522
+    second: HomeEsfera_12
+  - first:
+      213: 3040392475311822988
+    second: HomeEsfera_13
+  - first:
+      213: 392335413800891816
+    second: HomeEsfera_14
+  - first:
+      213: 8380333697164146232
+    second: HomeEsfera_15
+  - first:
+      213: 7742188619250601041
+    second: HomeEsfera_16
+  - first:
+      213: 246604123596532900
+    second: HomeEsfera_17
+  - first:
+      213: 500790995427272073
+    second: HomeEsfera_18
+  - first:
+      213: -6927450920410522011
+    second: HomeEsfera_19
+  - first:
+      213: -2354732327016002442
+    second: HomeEsfera_20
+  - first:
+      213: 4890727999352712623
+    second: HomeEsfera_21
+  - first:
+      213: 7985788839133577595
+    second: HomeEsfera_22
+  - first:
+      213: 8743120219284808599
+    second: HomeEsfera_23
+  - first:
+      213: 3890147002088993310
+    second: HomeEsfera_24
+  - first:
+      213: -2865931811934330450
+    second: HomeEsfera_25
+  - first:
+      213: -2214231969853320546
+    second: HomeEsfera_26
+  - first:
+      213: 7843744504002089334
+    second: HomeEsfera_27
+  - first:
+      213: 1519050932266833502
+    second: HomeEsfera_28
+  - first:
+      213: 1511412014569144481
+    second: HomeEsfera_29
+  - first:
+      213: 9188545917450773973
+    second: HomeEsfera_30
+  - first:
+      213: 2510856415930468602
+    second: HomeEsfera_31
+  - first:
+      213: 201966344942371908
+    second: HomeEsfera_32
+  - first:
+      213: 2826977230987833521
+    second: HomeEsfera_33
+  - first:
+      213: -5134935847874636191
+    second: HomeEsfera_34
+  - first:
+      213: -978229077352376579
+    second: HomeEsfera_35
+  - first:
+      213: -5689306749899729268
+    second: HomeEsfera_36
+  - first:
+      213: -476949063092875279
+    second: HomeEsfera_37
+  - first:
+      213: 9151356029736682508
+    second: HomeEsfera_38
+  - first:
+      213: -4923522227398495145
+    second: HomeEsfera_39
+  - first:
+      213: 881558171057483765
+    second: HomeEsfera_40
+  - first:
+      213: -5055063666760782654
+    second: HomeEsfera_41
+  - first:
+      213: 4701464516446519534
+    second: HomeEsfera_42
+  - first:
+      213: 2064847168707630031
+    second: HomeEsfera_43
+  - first:
+      213: 6112503063560521802
+    second: HomeEsfera_44
+  - first:
+      213: 2458669002974968915
+    second: HomeEsfera_45
+  - first:
+      213: -7073955632101957791
+    second: HomeEsfera_46
+  - first:
+      213: -7953938635526371879
+    second: HomeEsfera_47
+  - first:
+      213: 6839485652082444307
+    second: HomeEsfera_48
+  - first:
+      213: 2045411346992282683
+    second: HomeEsfera_49
+  - first:
+      213: -3846533926770498888
+    second: HomeEsfera_50
+  - first:
+      213: -2344567002286369650
+    second: HomeEsfera_51
+  - first:
+      213: -2707471851721249056
+    second: HomeEsfera_52
+  - first:
+      213: -8589618499414304197
+    second: HomeEsfera_53
+  - first:
+      213: 8402431662738306623
+    second: HomeEsfera_54
+  - first:
+      213: -8807700120179560476
+    second: HomeEsfera_55
+  - first:
+      213: 4027539164372388421
+    second: HomeEsfera_56
+  - first:
+      213: 898223492298634174
+    second: HomeEsfera_57
+  - first:
+      213: -567101556872646057
+    second: HomeEsfera_58
+  - first:
+      213: -8486146041111688718
+    second: HomeEsfera_59
+  - first:
+      213: 646379133449329650
+    second: HomeEsfera_60
+  - first:
+      213: -8605044524650467600
+    second: HomeEsfera_61
+  - first:
+      213: -1150993726906263883
+    second: HomeEsfera_62
+  - first:
+      213: -8910997322349227830
+    second: HomeEsfera_63
+  - first:
+      213: 615999554971133612
+    second: HomeEsfera_64
+  - first:
+      213: -8097373666250039678
+    second: HomeEsfera_65
+  - first:
+      213: -160596936419323181
+    second: HomeEsfera_66
+  - first:
+      213: 1385085925441392188
+    second: HomeEsfera_67
+  - first:
+      213: 7290648541972793201
+    second: HomeEsfera_68
+  - first:
+      213: 3817621736927225279
+    second: HomeEsfera_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HomeEsfera_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 803
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c24413cc17ab90800000000000000
+      internalID: -7230779052535920532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 567
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2484f4a672021b40800000000000000
+      internalID: 5409388811022271534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 622
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024182b963b37edc0800000000000000
+      internalID: -3609851470596795360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 596
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42beb845390ad21e0800000000000000
+      internalID: -2220942486584693980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 576
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1276869fbf46990800000000000000
+      internalID: -7393507639618493965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 615
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76efb62238ccbed30800000000000000
+      internalID: 4461884719430893159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345dd6a5fb675400800000000000000
+      internalID: 312837401936221236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 663
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3de71d60bd26030800000000000000
+      internalID: 3486589883869221868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 620
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed64683b9caa0170800000000000000
+      internalID: 8145512658718977515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 829
+        width: 178
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668227529fcaa1860800000000000000
+      internalID: 7501498315414055014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 791
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0753d35ad5c9d0800000000000000
+      internalID: -2754555543504351852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 826
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87819fc0e3e99b6a0800000000000000
+      internalID: -6432936603379230600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 783
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263a7c3dbb906e00800000000000000
+      internalID: 1035999151360980522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 831
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885bbcf8d4a13a20800000000000000
+      internalID: 3040392475311822988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 576
+        width: 522
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5786ceafad17500800000000000000
+      internalID: 392335413800891816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 814
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83674beb81dec4470800000000000000
+      internalID: 8380333697164146232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 815
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c01828787c17b60800000000000000
+      internalID: 7742188619250601041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 781
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2e13d42d1c6300800000000000000
+      internalID: 246604123596532900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 816
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985282dc1ca23f600800000000000000
+      internalID: 500790995427272073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 807
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5af15710ccdf90800000000000000
+      internalID: -6927450920410522011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 818
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c051bac6f425fd0800000000000000
+      internalID: -2354732327016002442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 839
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada976043b5fd340800000000000000
+      internalID: 4890727999352712623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 795
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7106df73a833de60800000000000000
+      internalID: 7985788839133577595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_23
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 785
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a103348dc55970800000000000000
+      internalID: 8743120219284808599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 787
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12b09766149cf530800000000000000
+      internalID: 3890147002088993310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 779
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1a92f833a2a38d0800000000000000
+      internalID: -2865931811934330450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_26
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 775
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92549241c77541e0800000000000000
+      internalID: -2214231969853320546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_27
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 582
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67197f581149adc60800000000000000
+      internalID: 7843744504002089334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_28
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 573
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569d7d46c0c41510800000000000000
+      internalID: 1519050932266833502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 609
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0c6ad283d99f410800000000000000
+      internalID: 1511412014569144481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_30
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 674
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5e40434d5448f70800000000000000
+      internalID: 9188545917450773973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 567
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8cb817b9a58d220800000000000000
+      internalID: 2510856415930468602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_32
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 565
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444cfd612578dc200800000000000000
+      internalID: 201966344942371908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 550
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b52940d07b3720800000000000000
+      internalID: 2826977230987833521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 543
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166530b6d0b0db8b0800000000000000
+      internalID: -5134935847874636191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 553
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6147746d1ac62f0800000000000000
+      internalID: -978229077352376579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_36
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 540
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c869ef977a58b01b0800000000000000
+      internalID: -5689306749899729268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_37
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 552
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc466aa598169f0800000000000000
+      internalID: -476949063092875279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 539
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048595b2d5200f70800000000000000
+      internalID: 9151356029736682508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_39
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 389
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7543c20ce922cabb0800000000000000
+      internalID: -4923522227398495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_40
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 528
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff69b26c7ceb3c00800000000000000
+      internalID: 881558171057483765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 509
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc6db1c06ec8d9b0800000000000000
+      internalID: -5055063666760782654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 512
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee006ea7115fe3140800000000000000
+      internalID: 4701464516446519534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 511
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31a465f8fc7ac10800000000000000
+      internalID: 2064847168707630031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a480300a629f3d450800000000000000
+      internalID: 6112503063560521802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_45
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 495
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c369e7e62fe1220800000000000000
+      internalID: 2458669002974968915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f50bff4d244dd90800000000000000
+      internalID: -7073955632101957791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d50238e3feed9190800000000000000
+      internalID: -7953938635526371879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31841c2a6fbbaee50800000000000000
+      internalID: 6839485652082444307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_49
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c370578c2c26c10800000000000000
+      internalID: 2045411346992282683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 466
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22b5ef5cd5e9ac0800000000000000
+      internalID: -3846533926770498888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_51
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e845e94cbbc667fd0800000000000000
+      internalID: -2344567002286369650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_52
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 433
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee29c612b02d6ad0800000000000000
+      internalID: -2707471851721249056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_53
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 404
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a594a0c7b8bc880800000000000000
+      internalID: -8589618499414304197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 394
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f20b441f6b9470800000000000000
+      internalID: 8402431662738306623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 357
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2888e763c4c580800000000000000
+      internalID: -8807700120179560476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_56
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 347
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac36bf781b4e730800000000000000
+      internalID: 4027539164372388421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 339
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3fe5bd181277c00800000000000000
+      internalID: 898223492298634174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_58
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 335
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f80f73204128f0800000000000000
+      internalID: -567101556872646057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_59
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 202
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9437b13272b3a80800000000000000
+      internalID: -8486146041111688718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_60
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 208
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd87fa56668f800800000000000000
+      internalID: 646379133449329650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 191
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee9c7a89db49880800000000000000
+      internalID: -8605044524650467600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 196
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69c09bd49d600f0800000000000000
+      internalID: -1150993726906263883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 189
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0dae6d527c55480800000000000000
+      internalID: -8910997322349227830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_64
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 194
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca66adfd4587c8800800000000000000
+      internalID: 615999554971133612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_65
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 183
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e50916d8950af80800000000000000
+      internalID: -8097373666250039678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 167
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d5bcefe175cdf0800000000000000
+      internalID: -160596936419323181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_67
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ec3598f40d83310800000000000000
+      internalID: 1385085925441392188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_68
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 127
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177028ea8369d2560800000000000000
+      internalID: 7290648541972793201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeEsfera_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 105
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56b5c3ebaeaf430800000000000000
+      internalID: 3817621736927225279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HomeEsfera_0: -7230779052535920532
+      HomeEsfera_1: 5409388811022271534
+      HomeEsfera_10: -2754555543504351852
+      HomeEsfera_11: -6432936603379230600
+      HomeEsfera_12: 1035999151360980522
+      HomeEsfera_13: 3040392475311822988
+      HomeEsfera_14: 392335413800891816
+      HomeEsfera_15: 8380333697164146232
+      HomeEsfera_16: 7742188619250601041
+      HomeEsfera_17: 246604123596532900
+      HomeEsfera_18: 500790995427272073
+      HomeEsfera_19: -6927450920410522011
+      HomeEsfera_2: -3609851470596795360
+      HomeEsfera_20: -2354732327016002442
+      HomeEsfera_21: 4890727999352712623
+      HomeEsfera_22: 7985788839133577595
+      HomeEsfera_23: 8743120219284808599
+      HomeEsfera_24: 3890147002088993310
+      HomeEsfera_25: -2865931811934330450
+      HomeEsfera_26: -2214231969853320546
+      HomeEsfera_27: 7843744504002089334
+      HomeEsfera_28: 1519050932266833502
+      HomeEsfera_29: 1511412014569144481
+      HomeEsfera_3: -2220942486584693980
+      HomeEsfera_30: 9188545917450773973
+      HomeEsfera_31: 2510856415930468602
+      HomeEsfera_32: 201966344942371908
+      HomeEsfera_33: 2826977230987833521
+      HomeEsfera_34: -5134935847874636191
+      HomeEsfera_35: -978229077352376579
+      HomeEsfera_36: -5689306749899729268
+      HomeEsfera_37: -476949063092875279
+      HomeEsfera_38: 9151356029736682508
+      HomeEsfera_39: -4923522227398495145
+      HomeEsfera_4: -7393507639618493965
+      HomeEsfera_40: 881558171057483765
+      HomeEsfera_41: -5055063666760782654
+      HomeEsfera_42: 4701464516446519534
+      HomeEsfera_43: 2064847168707630031
+      HomeEsfera_44: 6112503063560521802
+      HomeEsfera_45: 2458669002974968915
+      HomeEsfera_46: -7073955632101957791
+      HomeEsfera_47: -7953938635526371879
+      HomeEsfera_48: 6839485652082444307
+      HomeEsfera_49: 2045411346992282683
+      HomeEsfera_5: 4461884719430893159
+      HomeEsfera_50: -3846533926770498888
+      HomeEsfera_51: -2344567002286369650
+      HomeEsfera_52: -2707471851721249056
+      HomeEsfera_53: -8589618499414304197
+      HomeEsfera_54: 8402431662738306623
+      HomeEsfera_55: -8807700120179560476
+      HomeEsfera_56: 4027539164372388421
+      HomeEsfera_57: 898223492298634174
+      HomeEsfera_58: -567101556872646057
+      HomeEsfera_59: -8486146041111688718
+      HomeEsfera_6: 312837401936221236
+      HomeEsfera_60: 646379133449329650
+      HomeEsfera_61: -8605044524650467600
+      HomeEsfera_62: -1150993726906263883
+      HomeEsfera_63: -8910997322349227830
+      HomeEsfera_64: 615999554971133612
+      HomeEsfera_65: -8097373666250039678
+      HomeEsfera_66: -160596936419323181
+      HomeEsfera_67: 1385085925441392188
+      HomeEsfera_68: 7290648541972793201
+      HomeEsfera_69: 3817621736927225279
+      HomeEsfera_7: 3486589883869221868
+      HomeEsfera_8: 8145512658718977515
+      HomeEsfera_9: 7501498315414055014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
